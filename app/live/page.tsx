@@ -35,7 +35,7 @@ export default function LivePage() {
           >
             {/* YOUTUBE */}
             <a
-              href="https://www.youtube.com/@corsesportdiffusion9719"
+              href={`https://www.youtube.com/watch?v=${v.id}`}
               target="_blank"
               rel="noreferrer"
               style={{

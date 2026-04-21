@@ -2,3 +2,6 @@
 {"timestamp":"00:00:01.770","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
 {"timestamp":"00:03:38.283","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
 {"timestamp":"00:04:16.244","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"06:16:06.087","source":"Server","level":"ERROR","message":"⨯ ReferenceError: v is not defined"}
+{"timestamp":"06:16:06.122","source":"Server","level":"ERROR","message":"⨯ ReferenceError: v is not defined"}
+{"timestamp":"06:16:06.392","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: v is not defined"}
